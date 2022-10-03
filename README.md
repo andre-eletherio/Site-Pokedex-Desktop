@@ -6,11 +6,9 @@ https://fresh-hat.surge.sh/
 
 
 # `Descrição`
-O Projeto LabeFoods foi desenvolvido como projeto final de Front End dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
+O projeto foi desenvolvido com base na API pública https://pokeapi.co/. Ela oferece uma grade variedade de informações sobre o universo Pokémon.
 </br></br>
-A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
-</br></br>
-O repositório do projeto pode ser encontrado [aqui](https://github.com/future4code/Alves-labe-food5)
+Meu objetivo era criar um meio visual de ilustrar algumas dessas informações através do desenvolvimento de um site desktop.
 
 # `Modo de usar`
 Ao iniciar a aplicação, o usuário é direcionado à página inicial do site, onde consegue ver uma lista com todos os pokémons.
