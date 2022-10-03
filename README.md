@@ -42,7 +42,7 @@ Rodar o projeto:
 
 # `Imagens`
 ### Página Login
-<img src="./src/assets/img_readme/login.png"/>
+<img src="./images-rep/home.png"/>
 
 ### Página SignUp (Cadastro)
 <img src="./src/assets/img_readme/signup.png"/>
