@@ -41,26 +41,14 @@ Rodar o projeto:
 </div>
 
 # `Imagens`
-### Página Login
+### Página Inicial
 <img src="./images-rep/home.png"/>
 
-### Página SignUp (Cadastro)
-<img src="./src/assets/img_readme/signup.png"/>
+### Página Detalhes Pokémon
+<img src="./images-rep/details.png"/>
 
-### Página Feed
-<img src="./src/assets/img_readme/feed.png"/>
+### Página Pokédex
+<img src="./images-rep/pokedex.png"/>
 
-### Página detalhes
-<img src="./src/assets/img_readme/restaurant.png"/>
-
-### Página Carrinho
-<img src="./src/assets/img_readme/cart.png"/>
-
-### Página Perfil
-<img src="./src/assets/img_readme/profile.png"/>
-
-### Página Editar perfil
-<img src="./src/assets/img_readme/profile_edit.png"/>
-
-### Página Editar Endereço
-<img src="./src/assets/img_readme/profile_address.png"/>
+### Ao Capturar Pokémon
+<img src="./src/images-rep/gotcha.png"/>
