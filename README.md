@@ -44,11 +44,11 @@ Rodar o projeto:
 ### Página Inicial
 <img src="./images-rep/home.png"/>
 
+### Ao Capturar Pokémon
+<img src="./images-rep/gotcha.png"/>
+
 ### Página Detalhes Pokémon
 <img src="./images-rep/details.png"/>
 
 ### Página Pokédex
 <img src="./images-rep/pokedex.png"/>
-
-### Ao Capturar Pokémon
-<img src="./src/images-rep/gotcha.png"/>
